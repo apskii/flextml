@@ -15,7 +15,7 @@ Transformation example:
 </field>
 ```
 
--->
+→
 
 ```html
 <div data-field="" data-label="Tratata: " class="controls">
