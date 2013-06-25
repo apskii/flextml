@@ -2,7 +2,7 @@ name:           flextml
 version:        0.1
 cabal-version:  >=1.2
 build-type:     Simple
-author:         Ulthar
+author:         Andriy Polishchuk
 
 executable flextml
   hs-source-dirs:  src
